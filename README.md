@@ -1,4 +1,4 @@
-#Sessions - 17 June 2020
+# Sessions - 17 June 2020
 
 Session | Speaker | Level | Recording
 --- | --- | --- | ---
