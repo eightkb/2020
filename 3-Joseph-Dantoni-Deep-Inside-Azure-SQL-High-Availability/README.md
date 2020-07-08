@@ -9,7 +9,7 @@ https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows
 
 Availability Group and Cluster Logs
 
-https://docs.microsoft.com/ena-us/sql/database-engine/availability-groups/windows/cluster-log-always-on-availability-groups?view=sql-server-ver15
+https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/cluster-log-always-on-availability-groups?view=sql-server-ver15
 
 AG Latency Tool
 
@@ -21,5 +21,4 @@ https://techcommunity.microsoft.com/t5/sql-server-support/troubleshooting-data-m
 
 High availability for Azure SQL Database and SQL Managed Instance
 
-https://docs.microsoft.com/ena-us/sql/database-engine/availability-groups/windows/cluster-log-always-on-availability-groups?view=sql-server-ver15
-
+https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla
